@@ -1,0 +1,7 @@
+{
+  "name": "Vigirat",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
